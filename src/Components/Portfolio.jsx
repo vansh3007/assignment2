@@ -31,28 +31,27 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Wanderlust",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Wanderlust, a full stack web project,cloning of airbn website ,developed during learning of my web development course.",
+    url: "https://wanderlust-mini-project.onrender.com/listing",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Uifry",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Uifry, a front-end assignment given by Batch system,developed using HTML and CSS only,",
+    url: "https://vansh3007.github.io/Uifry/",
   },
   {
-    title: "My Resume Site",
-    description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    title: "Card Flip Game",
+    description: "This game is development using HTML, CSS and majorly JAVASCRIPT",
+    url: "https://vansh-flipgame.netlify.app",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "CleverBooks",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "CleverBooks,a front-end assignment given by Patilkaki,developed using HTML, CSS and JAVASCRIPT.",
+    url: "https://vansh3007.github.io/CleverBooks/",
   },
 ];
 
